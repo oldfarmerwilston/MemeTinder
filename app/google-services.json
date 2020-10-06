@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979116717445",
+    "firebase_url": "https://memetinder-2172b.firebaseio.com",
+    "project_id": "memetinder-2172b",
+    "storage_bucket": "memetinder-2172b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979116717445:android:75312a836099d14b0280ec",
+        "android_client_info": {
+          "package_name": "com.example.memetinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979116717445-f1aojbs5r4u2bp3m65jbgih92v4baqj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memetinder",
+            "certificate_hash": "d15b6963f010bafc336da434dc405e2157ebe885"
+          }
+        },
+        {
+          "client_id": "979116717445-vl603nlncfc29og53oo5ikv193dh3vi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6O1IN-yqHH0iG9CYHzpolYJcB23lxWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979116717445-vl603nlncfc29og53oo5ikv193dh3vi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
